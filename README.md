@@ -1,3 +1,7 @@
+<h1>AUTHOR - Ayesha tazeen</h1>
+<p>A currency changer website. That enables the user to enter any currency and get it converted to any desired currency across the world.</p>
+<p>This project uses an API and brings data through it which makes the conversion logic extremely simple </p>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
